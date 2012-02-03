@@ -56,7 +56,7 @@ App::Prolix::MooseHelpers - Moose helpers for App::Prolix
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 AUTHOR
 
@@ -64,7 +64,7 @@ Gaal Yahas <gaal@forum2.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2011 by Google, Inc.
+This software is Copyright (c) 2012 by Google, Inc.
 
 This is free software, licensed under:
 
