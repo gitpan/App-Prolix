@@ -33,7 +33,7 @@ my %WriteMakefileArgs = (
     "Moose::Exporter" => 0,
     "Moose::Role" => 0,
     "MooseX::ConfigFromFile" => 0,
-    "MooseX::Getopt" => 0,
+    "MooseX::Getopt" => "0.39",
     "String::ShellQuote" => 0,
     "Term::ReadKey" => 0,
     "Term::ReadLine" => 0,
@@ -42,7 +42,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.02",
+  "VERSION" => "0.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
